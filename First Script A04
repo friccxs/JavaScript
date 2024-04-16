@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercícios 1</title>
+    <style>
+
+body {
+background-color: rgb(117, 157, 218);
+
+}
+
+.titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.paragrafo1 {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+}
+    </style>
+</head>
+<body>
+    <h1 class="titulo">Olá, Mundo!!!</h1>
+    <p class="paragrafo1">Esse e meu primeiro codigo com JavaScript!</p>
+<script>
+alert('João E Ojhoe Da A Bunda!')
+confirm('Até gostando de JS?')
+prompt('Bom dia')
+</script>
+    
+
+
+
+
+</body>
+</html>
